@@ -1,5 +1,4 @@
-# ImagingTools
-Collection of functions to manipulate images and video
+# LlamaSoft.NET.Extensions
 
 Includes
 
